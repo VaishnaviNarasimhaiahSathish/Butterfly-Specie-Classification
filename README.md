@@ -2,7 +2,7 @@
 **Title**
 Butterfly Specie Classification using Advanced Machine Learning Techniques.
 
-**Abstract**:
+**Abstract**
 Automatic identification of butterfly species is an important research in the field of 
 lepidopterology. The limited ability of the human eye to distinguish typical textures on butterfly 
 species is one of the primary reasons for proposing a system for butterfly identification based on 
@@ -24,7 +24,7 @@ the recognition and identification of butterfly species using advanced machine l
 techniques and provide contribution to the field of entomology in developing a faster, and more 
 precise techniques for accurate classification of butterfly species.
 
-**Contributers:**
+**Contributers**
 Prof.Dr.Pavan Kumar M P
 Vaishnavi N S
 Likith L S
