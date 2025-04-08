@@ -27,7 +27,7 @@ precise techniques for accurate classification of butterfly species.
 **Contributers**
 Prof.Dr.Pavan Kumar M P
 Vaishnavi N S
-Likith L S
 Srushti H S
 Venkatesh G J
+Likith L S
 
